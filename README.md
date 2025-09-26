@@ -1,5 +1,5 @@
 # BeamMP Radio System Mod
-
+# Client Side
 ## Overview
 
 This mod adds a customizable radio system to BeamNG.drive multiplayer via BeamMP. Players can select radio stations in their vehicles, with 3D audio that allows nearby players to hear the music fading with distance. It includes volume control, an on-screen display for station info, a personal MP3 fallback (for non-vehicle use), and an admin command to mute radios in a radius.
