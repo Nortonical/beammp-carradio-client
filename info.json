@@ -1,0 +1,7 @@
+{
+  "name": "Radio Mod",
+  "description": "Multiplayer radio system for BeamMP",
+  "version": "1.0",
+  "authors": ["Nortonic & Grok (xAI)"],
+  "type": "script"
+}
